@@ -25,7 +25,7 @@ victor = {
 }
 ```
 
-Double diplôme **Polytech Lyon / UQAC**, je conçois des systèmes IA de bout en bout — du modèle entraîné à l'interface déployée. Je m'intéresse particulièrement aux intersections entre IA, sécurité et expérience utilisateur.
+Double diplôme Polytech Lyon / UQAC, je conçois des systèmes IA de bout en bout, du modèle entraîné à l'interface déployée. Je m'intéresse particulièrement aux intersections entre IA, sécurité et expérience utilisateur.
 
 ---
 
@@ -140,8 +140,8 @@ Double diplôme **Polytech Lyon / UQAC**, je conçois des systèmes IA de bout e
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=victorlfvr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=2563eb&icon_color=2563eb&text_color=f5f5f7&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlfvr&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=2563eb&text_color=f5f5f7&langs_count=8" />
+<img height="160" src="https://github-readme-stats-salesp07.vercel.app/api?username=victorlfvr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=2563eb&icon_color=2563eb&text_color=f5f5f7&rank_icon=github&count_private=true&hide=stars,issues" />
+<img height="160" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=victorlfvr&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=2563eb&text_color=f5f5f7&langs_count=8&count_private=true" />
 
 </div>
 
