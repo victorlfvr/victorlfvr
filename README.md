@@ -20,7 +20,7 @@ victor = {
     "formation"    : ["Polytech Lyon", "UQAC (Québec)"],
     "domaines"     : ["Machine Learning", "Computer Vision", "NLP", "Cybersécurité"],
     "stack_web"    : ["React", "Vite", "Node.js", "Python", "FastAPI"],
-    "actuellement" : "Double diplôme IA · promo 2027",
+    "actuellement" : "Double diplôme IA",
     "disponible"   : True,   # freelance / alternance
 }
 ```
